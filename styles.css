@@ -1,0 +1,50 @@
+/* add your CSS here */
+.The_card{
+  width: 30%;
+  margin: 50px auto;
+  padding: 20px;
+  box-shadow: 10px 10px 5px grey;
+}
+.title{
+  font-size:18pt;
+  font-weight: bold;
+  font-family: cursive,monospace;
+  text-align: left;
+}
+.img_container{
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+img{
+  width:100%;
+  text-align: center;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.information_block{
+  padding: measuring;
+  border: 1px solid grey;
+  margin: auto;
+}
+.fact{
+  font-style: italic;
+  font-size: 18px;
+}
+li{text-align: left;
+}
+ul {
+  padding-inline-start: 0px;
+  text-align: left;
+ list-style-type: none;
+}
+
+.The_card ul li span{
+  font-weight: bold;
+}
+.brief{
+  font-style: oblique;
+}
